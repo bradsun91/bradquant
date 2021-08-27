@@ -1,3 +1,3 @@
 # bradquant
 
-## Quant Notebooks summarized from previous years.
+## Quant Notebooks summarized for different functions including data and research pipelines.
